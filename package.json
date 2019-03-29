@@ -1,0 +1,38 @@
+{
+    "name": "rdx-reducer-registry",
+    "version": "0.0.5",
+    "description": "This package provides a reducer registry for dynamic management of the Redux store",
+    "main": "./lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tcarrio/rdx-reducer-registry"
+    },
+    "keywords": [
+        "redux",
+        "reducer",
+        "registry"
+    ],
+    "author": {
+        "name": "Tom Carrio",
+        "email": "tom@carrio.me"
+    },
+    "license": "MIT",
+    "readme": "A basic reducer registry for micro-application architectures to dynamically add and remove registers",
+    "readmeFilename": "README.md",
+    "dependencies": {
+        "redux": "^4.0.1"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    },
+    "bugs": {
+        "url": "https://github.com/tcarrio/rdx-reducer-registry"
+    },
+    "homepage": "https://github.com/tcarrio/rdx-reducer-registry",
+    "_id": "rdx-reducer-registry@0.0.1",
+    "scripts": {},
+    "_shasum": "",
+    "_from": "rdx-reducer-registry@"
+}
