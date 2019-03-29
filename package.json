@@ -1,6 +1,6 @@
 {
     "name": "rdx-reducer-registry",
-    "version": "0.0.5",
+    "version": "0.1.0",
     "description": "This package provides a reducer registry for dynamic management of the Redux store",
     "main": "./lib/index.js",
     "repository": {
